@@ -29,7 +29,6 @@ const itemList = ref([
         content: 'Content for Item 3',
     },
     ]);
-    
 </script>
 
 
